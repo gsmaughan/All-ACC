@@ -1,0 +1,40 @@
+
+#col{
+    border-color:  red;
+    height: 90vh;
+    padding: 10px;
+    
+   
+}
+.row{
+    /* padding: 3%; */
+    height: 100%;
+    width: 100%;
+    /* background-color: pink; */
+  
+}
+header{
+    text-align: center;
+}
+/* .team{
+    height: 200px;
+    
+} */
+
+
+img{
+    padding: 10px;
+}
+#name{
+    font-weight: bold;
+    font-size: 20px;
+    /* position: fixed; */
+    
+}
+#info{
+    background: blue;
+    position:fixed;
+    right: 20px;
+    top: 100px;
+    /* float: right; */
+}
